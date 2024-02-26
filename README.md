@@ -1,0 +1,5 @@
+git pull------(Fetch & merge changes)
+git branch-----(Manages branches)
+git checkout-------(Switch branches)
+git clone--------(Clone repository)
+git status------(Check status)
